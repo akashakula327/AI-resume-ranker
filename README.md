@@ -29,7 +29,7 @@ resume_score/
 
 1️⃣ Clone the Repository
 ```
-git clone https://github.com/akashakula327/Ai-powered-resume-screening-and-ranking
+git clone https://github.com/akashakula327/Ai-powered-resume-screening-and-ranking.git
 ```
 
 2️⃣ (Optional) Create a Virtual Environment
