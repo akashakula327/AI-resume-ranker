@@ -51,7 +51,7 @@ pip install -r requirements.txt
 ```
 4️⃣ Run the Application
 ```
-streamlit run app.py
+streamlit run resume_ranker.py
 ```
 The app will open in your default web browser.
 
